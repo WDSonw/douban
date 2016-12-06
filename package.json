@@ -1,0 +1,20 @@
+{
+  "name": "douban",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-sever -p 7080 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WDSonw/douban.git"
+  },
+  "author": "WDSnow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WDSonw/douban/issues"
+  },
+  "homepage": "https://github.com/WDSonw/douban#readme"
+}
